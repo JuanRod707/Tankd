@@ -1,0 +1,1 @@
+{"name":"@etermax/chameleon","version":"1.0.16","author":"ismaelserrada","dependencies":{"@etermax/etermax-ci":"2.1.1","@etermax/nfluent":"1.0.0","@etermax/unity-rx":"latest"},"devDependencies":{"@etermax/upm-editor-plugin":"latest"},"files":["Assets/Package","CHANGELOG.md",".upm-config"],"license":"UNLICENSED"}
