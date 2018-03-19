@@ -1,6 +1,6 @@
-%YAML 1.1 
-%TAG !u! tag:unity3d.com,2011: 
---- !u!129 &1 
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
@@ -13,16 +13,9 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: Tankd
-  defaultCursor:
-    fileID: 0
-  cursorHotspot:
-    x: 0
-    y: 0
-  m_SplashScreenBackgroundColor:
-    r: 0.13725491
-    g: 0.12156863
-    b: 0.1254902
-    a: 1
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -46,10 +39,8 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos: []
-  m_VirtualRealitySplashScreen:
-    fileID: 0
-  m_HolographicTrackingLossScreen:
-    fileID: 0
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
@@ -130,10 +121,10 @@ PlayerSettings:
   wiiUAllowScreenCapture: 1
   wiiUControllerCount: 0
   m_SupportedAspectRatios:
-    14580: 1
-    18240: 1
-    58200: 1
-    58140: 1
+    4:3: 1
+    5:4: 1
+    16:10: 1
+    16:9: 1
     Others: 1
   bundleVersion: 1.7.2
   preloadedAssets: []
@@ -196,34 +187,20 @@ PlayerSettings:
   uIStatusBarHidden: 1
   uIExitOnSuspend: 0
   uIStatusBarStyle: 0
-  iPhoneSplashScreen:
-    fileID: 0
-  iPhoneHighResSplashScreen:
-    fileID: 0
-  iPhoneTallHighResSplashScreen:
-    fileID: 0
-  iPhone47inSplashScreen:
-    fileID: 0
-  iPhone55inPortraitSplashScreen:
-    fileID: 0
-  iPhone55inLandscapeSplashScreen:
-    fileID: 0
-  iPhone58inPortraitSplashScreen:
-    fileID: 0
-  iPhone58inLandscapeSplashScreen:
-    fileID: 0
-  iPadPortraitSplashScreen:
-    fileID: 0
-  iPadHighResPortraitSplashScreen:
-    fileID: 0
-  iPadLandscapeSplashScreen:
-    fileID: 0
-  iPadHighResLandscapeSplashScreen:
-    fileID: 0
-  appleTVSplashScreen:
-    fileID: 0
-  appleTVSplashScreen2x:
-    fileID: 0
+  iPhoneSplashScreen: {fileID: 0}
+  iPhoneHighResSplashScreen: {fileID: 0}
+  iPhoneTallHighResSplashScreen: {fileID: 0}
+  iPhone47inSplashScreen: {fileID: 0}
+  iPhone55inPortraitSplashScreen: {fileID: 0}
+  iPhone55inLandscapeSplashScreen: {fileID: 0}
+  iPhone58inPortraitSplashScreen: {fileID: 0}
+  iPhone58inLandscapeSplashScreen: {fileID: 0}
+  iPadPortraitSplashScreen: {fileID: 0}
+  iPadHighResPortraitSplashScreen: {fileID: 0}
+  iPadLandscapeSplashScreen: {fileID: 0}
+  iPadHighResLandscapeSplashScreen: {fileID: 0}
+  appleTVSplashScreen: {fileID: 0}
+  appleTVSplashScreen2x: {fileID: 0}
   tvOSSmallIconLayers: []
   tvOSSmallIconLayers2x: []
   tvOSLargeIconLayers: []
@@ -232,10 +209,8 @@ PlayerSettings:
   tvOSTopShelfImageWideLayers: []
   tvOSTopShelfImageWideLayers2x: []
   iOSLaunchScreenType: 0
-  iOSLaunchScreenPortrait:
-    fileID: 0
-  iOSLaunchScreenLandscape:
-    fileID: 0
+  iOSLaunchScreenPortrait: {fileID: 0}
+  iOSLaunchScreenLandscape: {fileID: 0}
   iOSLaunchScreenBackgroundColor:
     serializedVersion: 2
     rgba: 0
@@ -243,8 +218,7 @@ PlayerSettings:
   iOSLaunchScreenSize: 100
   iOSLaunchScreenCustomXibPath: 
   iOSLaunchScreeniPadType: 0
-  iOSLaunchScreeniPadImage:
-    fileID: 0
+  iOSLaunchScreeniPadImage: {fileID: 0}
   iOSLaunchScreeniPadBackgroundColor:
     serializedVersion: 2
     rgba: 0
@@ -264,11 +238,10 @@ PlayerSettings:
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   appleEnableAutomaticSigning: 0
-  clonedFromGUID: 0
+  clonedFromGUID: 00000000000000000000000000000000
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
-  androidSplashScreen:
-    fileID: 0
+  androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 1
@@ -279,11 +252,9 @@ PlayerSettings:
   m_AndroidBanners:
   - width: 320
     height: 180
-    banner:
-      fileID: 0
+    banner: {fileID: 0}
   androidGamepadSupportLevel: 0
-  resolutionDialogBanner:
-    fileID: 0
+  resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons: []
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
@@ -314,10 +285,8 @@ PlayerSettings:
   wiiUMainThreadStackSize: 3072
   wiiULoaderThreadStackSize: 1024
   wiiUSystemHeapSize: 128
-  wiiUTVStartupScreen:
-    fileID: 0
-  wiiUGamePadStartupScreen:
-    fileID: 0
+  wiiUTVStartupScreen: {fileID: 0}
+  wiiUGamePadStartupScreen: {fileID: 0}
   wiiUDrcBufferDisabled: 0
   wiiUProfilerLibPath: 
   playModeTestRunnerEnabled: 0
@@ -366,66 +335,36 @@ PlayerSettings:
   switchPublisherNames_12: 
   switchPublisherNames_13: 
   switchPublisherNames_14: 
-  switchIcons_0:
-    fileID: 0
-  switchIcons_1:
-    fileID: 0
-  switchIcons_2:
-    fileID: 0
-  switchIcons_3:
-    fileID: 0
-  switchIcons_4:
-    fileID: 0
-  switchIcons_5:
-    fileID: 0
-  switchIcons_6:
-    fileID: 0
-  switchIcons_7:
-    fileID: 0
-  switchIcons_8:
-    fileID: 0
-  switchIcons_9:
-    fileID: 0
-  switchIcons_10:
-    fileID: 0
-  switchIcons_11:
-    fileID: 0
-  switchIcons_12:
-    fileID: 0
-  switchIcons_13:
-    fileID: 0
-  switchIcons_14:
-    fileID: 0
-  switchSmallIcons_0:
-    fileID: 0
-  switchSmallIcons_1:
-    fileID: 0
-  switchSmallIcons_2:
-    fileID: 0
-  switchSmallIcons_3:
-    fileID: 0
-  switchSmallIcons_4:
-    fileID: 0
-  switchSmallIcons_5:
-    fileID: 0
-  switchSmallIcons_6:
-    fileID: 0
-  switchSmallIcons_7:
-    fileID: 0
-  switchSmallIcons_8:
-    fileID: 0
-  switchSmallIcons_9:
-    fileID: 0
-  switchSmallIcons_10:
-    fileID: 0
-  switchSmallIcons_11:
-    fileID: 0
-  switchSmallIcons_12:
-    fileID: 0
-  switchSmallIcons_13:
-    fileID: 0
-  switchSmallIcons_14:
-    fileID: 0
+  switchIcons_0: {fileID: 0}
+  switchIcons_1: {fileID: 0}
+  switchIcons_2: {fileID: 0}
+  switchIcons_3: {fileID: 0}
+  switchIcons_4: {fileID: 0}
+  switchIcons_5: {fileID: 0}
+  switchIcons_6: {fileID: 0}
+  switchIcons_7: {fileID: 0}
+  switchIcons_8: {fileID: 0}
+  switchIcons_9: {fileID: 0}
+  switchIcons_10: {fileID: 0}
+  switchIcons_11: {fileID: 0}
+  switchIcons_12: {fileID: 0}
+  switchIcons_13: {fileID: 0}
+  switchIcons_14: {fileID: 0}
+  switchSmallIcons_0: {fileID: 0}
+  switchSmallIcons_1: {fileID: 0}
+  switchSmallIcons_2: {fileID: 0}
+  switchSmallIcons_3: {fileID: 0}
+  switchSmallIcons_4: {fileID: 0}
+  switchSmallIcons_5: {fileID: 0}
+  switchSmallIcons_6: {fileID: 0}
+  switchSmallIcons_7: {fileID: 0}
+  switchSmallIcons_8: {fileID: 0}
+  switchSmallIcons_9: {fileID: 0}
+  switchSmallIcons_10: {fileID: 0}
+  switchSmallIcons_11: {fileID: 0}
+  switchSmallIcons_12: {fileID: 0}
+  switchSmallIcons_13: {fileID: 0}
+  switchSmallIcons_14: {fileID: 0}
   switchManualHTML: 
   switchAccessibleURLs: 
   switchLegalInformation: 
@@ -549,8 +488,7 @@ PlayerSettings:
   ps4attribEyeToEyeDistanceSettingVR: 0
   ps4IncludedModules: []
   monoEnv: 
-  psp2Splashimage:
-    fileID: 0
+  psp2Splashimage: {fileID: 0}
   psp2NPTrophyPackPath: 
   psp2NPSupportGBMorGJP: 0
   psp2NPAgeRating: 12
@@ -597,12 +535,9 @@ PlayerSettings:
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
   psp2ScriptOptimizationLevel: 0
-  psmSplashimage:
-    fileID: 0
-  splashScreenBackgroundSourceLandscape:
-    fileID: 0
-  splashScreenBackgroundSourcePortrait:
-    fileID: 0
+  psmSplashimage: {fileID: 0}
+  splashScreenBackgroundSourceLandscape: {fileID: 0}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: 
   webGLMemorySize: 256
   webGLExceptionSupport: 1
@@ -642,16 +577,9 @@ PlayerSettings:
   metroWideTileShowName: 0
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
-  metroTileBackgroundColor:
-    r: 0.13333334
-    g: 0.17254902
-    b: 0.21568628
-    a: 0
-  metroSplashScreenBackgroundColor:
-    r: 0.12941177
-    g: 0.17254902
-    b: 0.21568628
-    a: 1
+  metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroFTAName: 
@@ -696,19 +624,16 @@ PlayerSettings:
   XboxOneIsContentPackage: 0
   XboxOneEnableGPUVariability: 0
   XboxOneSockets: {}
-  XboxOneSplashScreen:
-    fileID: 0
+  XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   xboxOneScriptCompiler: 0
   vrEditorSettings:
     daydream:
-      daydreamIconForeground:
-        fileID: 0
-      daydreamIconBackground:
-        fileID: 0
+      daydreamIconForeground: {fileID: 0}
+      daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
